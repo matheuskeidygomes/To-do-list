@@ -27,6 +27,13 @@ Projeto de lista de tarefas, realizado com React.js e TailwindCSS, para aprofund
 - [x] Visualizar tarefas listadas.
 - [x] Marcar tarefas realizadas.
 
+# Repositório Online
+
+Acesse clicando no botão abaixo:   
+  
+<a href="https://list-to-do-tasks.herokuapp.com/"> 
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+</a>
 
 # Screenshots
 
